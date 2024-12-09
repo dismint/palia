@@ -1,0 +1,261 @@
+[
+  {
+    "messages": ["ah", "pa called for trump", "by cnn"],
+    "senders": ["P1", "P1", "P1"],
+    "ratings": [2, 2, 2],
+    "llm_ratings": [3, 3, 1],
+    "response": "Oh wow, I wonder what that will mean for the election outcome.",
+    "response_ratings": [3, 3, 2]
+  },
+  {
+    "messages": [
+      "im gonna",
+      "shower",
+      "and then check the polls again",
+      "and then try to sleep...",
+      "AND IM NOT GONNA CHECK THE POLLS IN THE SHOWER!!!!!!",
+      "oh hm i discovered that apple news lets me put the current electoral college vote count on the top of my screen at all times"
+    ],
+    "senders": ["P1", "P1", "P1", "P1", "P1", "P1"],
+    "ratings": [3, 4, 2],
+    "llm_ratings": [3, 3, 2],
+    "response": "Remember to take a break from it all, things will settle down.",
+    "response_ratings": [3, 2, 2]
+  },
+  {
+    "messages": [
+      "it still says",
+      "167k for me",
+      "which is a shrink!",
+      "yeah!",
+      "its shrinking!"
+    ],
+    "senders": ["P1", "P1", "P1", "P2", "P2"],
+    "ratings": [2, 4, 3],
+    "llm_ratings": [3, 3, 2],
+    "response": "Wow, that's a big change!",
+    "response_ratings": [4, 3, 2]
+  },
+  {
+    "messages": [
+      "any dinners tmrw",
+      "nvd???",
+      "I can tap all of tbe no meal plans people"
+    ],
+    "senders": ["P1", "P1", "P1"],
+    "ratings": [4, 4, 2],
+    "llm_ratings": [3, 2, 2],
+    "response": "Maybe we should plan a potluck dinner as a group?",
+    "response_ratings": [4, 3, 2]
+  },
+  {
+    "messages": [
+      "I think they're trying to find a plane for this flight",
+      "but also there are flights tmr I could take so it's ok",
+      "might just miss class"
+    ],
+    "senders": ["P1", "P1", "P1"],
+    "ratings": [3, 3, 1],
+    "llm_ratings": [3, 2, 2],
+    "response": "I hope they find a plane soon, but at least you have options for tomorrow!",
+    "response_ratings": [4, 2, 2]
+  },
+  {
+    "messages": [
+      "bruh i was trying to debug something",
+      "and i started adding more logging",
+      "and suddenly",
+      "i can't get the error to reproduce anymore...",
+      "at all...",
+      "even tho",
+      "it was showing up so much before...."
+    ],
+    "senders": ["P1", "P1", "P1", "P1", "P1", "P1", "P1"],
+    "ratings": [1, 2, 2],
+    "llm_ratings": [3, 3, 2],
+    "response": "Sounds like a classic case of Heisenbug!",
+    "response_ratings": [4, 3, 2]
+  },
+  {
+    "messages": [
+      "this pset made me actually",
+      "want to die",
+      "it took me like",
+      "6 straight hours",
+      "because im stupid",
+      "i feel like they should be more considerate of this fact"
+    ],
+    "senders": ["P1", "P1", "P1", "P1", "P1", "P1", "P1"],
+    "ratings": [2, 3, 3],
+    "llm_ratings": [2, 3, 2],
+    "response": "I'm sorry to hear that! Maybe taking a break next time might help.",
+    "response_ratings": [3, 2, 2]
+  },
+  {
+    "messages": [
+      "thats the pro tip from her",
+      "just stop being a procrastinator",
+      "its like the homeless person buying a house thing"
+    ],
+    "senders": ["P1", "P1", "P1"],
+    "ratings": [4, 4, 3],
+    "llm_ratings": [3, 3, 3],
+    "response": "That sounds like a tough situation, but I bet she has more tips to share.  ",
+    "response_ratings": [3, 2, 2]
+  },
+  {
+    "messages": [
+      "answered 100% of the questions on my exam",
+      "with such hardball qs as 'what are you looking forward to most in fall' i think this is quite the achievement",
+      "well P1?",
+      "what are you looking forward to most in fall?",
+      "thanksgiving break"
+    ],
+    "senders": ["P1", "P1", "P2", "P2", "P1"],
+    "ratings": [4, 3, 3],
+    "llm_ratings": [4, 2, 2],
+    "response": "That's great! Thanksgiving break is always something to look forward to!   ",
+    "response_ratings": [4, 2, 1]
+  },
+  {
+    "messages": [
+      "surely",
+      "just",
+      "15 min of games cant hurt",
+      "IT CAN HURT",
+      "haha",
+      "IT CAN HURT",
+      "IT CAN HURT",
+      "IT CAN HURT",
+      "IT CAN HURT"
+    ],
+    "senders": ["P1", "P1", "P1", "P2", "P1", "P2", "P2", "P2", "P2"],
+    "ratings": [3, 4, 2],
+    "llm_ratings": [3, 4, 2],
+    "response": "Let's just make sure it's not more than 15 minutes, okay?",
+    "response_ratings": [3, 3, 1]
+  },
+  {
+    "messages": [
+      "bruh",
+      "i think literally the lab code is like wrong",
+      "unless i'm being silly",
+      "which i might be"
+    ],
+    "senders": ["P1", "P1", "P1", "P1"],
+    "ratings": [1, 2, 1],
+    "llm_ratings": [3, 2, 2],
+    "response": "I guess double-checking could be a good idea!",
+    "response_ratings": [4, 2, 2]
+  },
+  {
+    "messages": [
+      "eyo why is the ta who is staffing oh with me",
+      "putting on his jacket",
+      "and inching closer towards the door",
+      "is bro about to leave 30 min early"
+    ],
+    "senders": ["P1", "P1", "P1", "P1"],
+    "ratings": [3, 3, 3],
+    "llm_ratings": [3, 3, 2],
+    "response": "Haha, maybe he's just cold and trying to get some fresh air!",
+    "response_ratings": [4, 3, 2]
+  },
+  {
+    "messages": ["WHAT DID HE DO", "i mean", "a lot", "BUT WHAT IN PARTICULAR"],
+    "senders": ["P1", "P1", "P1", "P1"],
+    "ratings": [3, 5, 2],
+    "llm_ratings": [3, 3, 2],
+    "response": "Could you be more specific?",
+    "response_ratings": [3, 2, 2]
+  },
+  {
+    "messages": [
+      "LETS GO",
+      "SHEEEEEESH",
+      "IDK ABOUT THE THIS PICK BUT SHEESH ENGAGE GO BRRRR"
+    ],
+    "senders": ["P1", "P1", "P1"],
+    "ratings": [5, 5, 2],
+    "llm_ratings": [4, 5, 3],
+    "response": "Woohoo! Let's see how this goes!",
+    "response_ratings": [4, 4, 2]
+  },
+  {
+    "messages": [
+      "i cant code either!",
+      "what have u been doing this summer then",
+      "writing docs"
+    ],
+    "senders": ["P1", "P2", "P1"],
+    "ratings": [2, 4, 3],
+    "llm_ratings": [3, 3, 2],
+    "response": "That sounds like a productive way to spend your summer!",
+    "response_ratings": [4, 3, 2]
+  },
+  {
+    "messages": [
+      "team liquid called TEAM LIQUID cuz theyre the TEAM that loses me the most LIQUIDity"
+    ],
+    "senders": ["P1"],
+    "ratings": [4, 4, 3],
+    "llm_ratings": [2, 3, 3],
+    "response": "I guess they should work on their strategy!",
+    "response_ratings": [3, 3, 2]
+  },
+  {
+    "messages": [
+      "wait its so tempting",
+      "i already bought flour tho",
+      "WHAT IF I BOUGHT IT"
+    ],
+    "senders": ["P1", "P1", "P1"],
+    "ratings": [4, 5, 2],
+    "llm_ratings": [3, 3, 2],
+    "response": "Maybe go for it if it brings you joy!",
+    "response_ratings": [4, 3, 2]
+  },
+  {
+    "messages": [
+      "my parents brought me",
+      "a pair of gamer socks",
+      "i bought for P2 and P3",
+      "matching gamer socks"
+    ],
+    "senders": ["P1", "P1", "P1", "P1"],
+    "ratings": [4, 3, 1],
+    "llm_ratings": [4, 3, 1],
+    "response": "Wow, it sounds like you all will have a lot of fun with your matching socks!",
+    "response_ratings": [4, 3, 2]
+  },
+  {
+    "messages": [
+      "ITS NOT BAD",
+      "IT SOUNDS FUNNY",
+      "IT JUST NEEDS SOME TOUCH UP",
+      "HAVE NOT KEPT UP WITH THE TIMES",
+      "ARGH THAT SOUNDS TOO COLLOQUIAL",
+      "ill just ask chat gpt..."
+    ],
+    "senders": ["P1", "P2", "P1", "P2", "P2", "P2"],
+    "ratings": [4, 5, 2],
+    "llm_ratings": [3, 3, 2],
+    "response": "Maybe Chat GPT will have some modern suggestions.",
+    "response_ratings": [3, 3, 2]
+  },
+  {
+    "messages": [
+      "THERES A TAOS ON NEWBURY",
+      "WTF",
+      "WHERE DID IT SOAWN IN",
+      "SPAWN IN",
+      "???????",
+      "WHEN?????"
+    ],
+    "senders": ["P1", "P1", "P1", "P1", "P1", "P1"],
+    "ratings": [5, 5, 2],
+    "llm_ratings": [2, 4, 2],
+    "response": "Wow, that's unexpected! Did you get a chance to see it?  ",
+    "response_ratings": [3, 3, 2]
+  }
+]
